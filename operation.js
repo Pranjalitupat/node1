@@ -1,0 +1,10 @@
+let a=6;
+let b=9;
+let c=a*b;
+let d=a/b;
+let e=a-b;
+let f=a+b;
+console.log('addition is'+f);
+console.log('subtraction  is'+e);
+console.log('division is'+d);
+console.log('multiplication is'+c);
