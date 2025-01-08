@@ -1,9 +1,7 @@
-const fun =(name,fun1)=>{
-    console.log("hello");
-    fun1();
+
+function code(a){
+    a();
 }
-const fun1=()=>{
-    console.log('goodmorning');
-    
-}
-fun(pranju,fun1);
+code(()=>{
+    console.log('linkcode');
+});
